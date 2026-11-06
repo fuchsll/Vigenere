@@ -1,8 +1,7 @@
 # Vigenere
 
 A small Julia package that encrypts and decrypts text with the
-[Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher),
-using only Julia Base.
+[Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher).
 
 - Capitalization is preserved.
 - Characters that are not letters A-Z/a-z (spaces, digits, punctuation,
